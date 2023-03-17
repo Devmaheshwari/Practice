@@ -3,7 +3,7 @@ package Array;
 public class array {
 
 	public static void main(String[] args) {
-		
+		// this is for practice
 		// This is one Dimensional Array{
 		
 			/*int[] month_days = new int[12];
